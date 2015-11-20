@@ -1,9 +1,11 @@
-Cuantro estas en src/
+Cuantro estas en el dossier qui contient ce fichier
 
 === La procedura para compilar el cliente :
 
-$ javac exception/*.java main/*.java
+$ javac -d bin src/exception/*.java src/main/*.java
 
 === Y para executar :
+
+Dans bin/ : (/!\ Impossible à faire depuis pas bin/)
 
 $ java main.Main

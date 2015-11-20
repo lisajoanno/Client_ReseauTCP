@@ -18,7 +18,10 @@ import java.util.Scanner;
  */
 public class Client {
 
-	static final String adresseIP = "10.212.115.140";
+	// IP Arnaud
+	//static final String adresseIP = "10.212.115.140";
+	// IP Lisa
+	static final String adresseIP = "10.212.115.203";
 	static final int port = 2222;
 	private Scanner sc;
 
