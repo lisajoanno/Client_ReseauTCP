@@ -1,0 +1,9 @@
+Cuantro estas en src/
+
+=== La procedura para compilar el cliente :
+
+$ javac exception/*.java main/*.java
+
+=== Y para executar :
+
+$ java main.Main
