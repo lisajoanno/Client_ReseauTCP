@@ -97,6 +97,7 @@ public class Client {
 		}
 	}
 
+	
 	/**
 	 * Imprime la liste des choix proposés à l'utilisateur.
 	 */
