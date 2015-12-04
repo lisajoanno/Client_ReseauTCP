@@ -11,7 +11,7 @@ public class SurnomDejaExistant extends Exception {
 	 * Constructeur et afficheur de l'exception.
 	 */
 	public SurnomDejaExistant() {
-		System.err.println("Ce surnom est deja pris !");
+		super("Ce surnom est deja pris !");
 	}
 
 }

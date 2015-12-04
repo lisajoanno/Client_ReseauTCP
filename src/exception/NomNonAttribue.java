@@ -12,7 +12,7 @@ public class NomNonAttribue extends Exception {
 	 * Constructeur et afficheur de l'exception.
 	 */
 	public NomNonAttribue() {
-		System.err.println("Ce nom n'est pas attribué.");
+		super("Ce nom n'est pas attribué.");
 	}
 
 }
